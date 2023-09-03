@@ -38,6 +38,6 @@
 <!-- Connect -->
 <h2 align="Left">Let's Connect 🚀</h2>
 <p align="Left">
-  📫 Email: [Email me](mailto:ondigophilemon@gmail.com)
+  <a href="mailto:ondigophilemon@gmail.com">📫 Email: [Email me](mailto:ondigophilemon@gmail.com)</a>
   🌐 Call: (+254) 714-875613<br>
 </p>
