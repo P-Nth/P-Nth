@@ -1,31 +1,43 @@
 <!-- Title -->
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, its P-Nth(Philemon) 👋</h1>
 
 <!-- Intro -->
 <p align="center">
-  Software engineer with expertise in compiler development, front-end UI/UX design, and turning concepts into real-world websites. Passionate about creating elegant and efficient solutions.
+  Software engineer with expertise in web development and Mobile Development, Hardware engineer with expertise in compiler construction and Digital Electronics, on the road to turning concepts into real-world projects. Into creating working and efficient solutions.
 </p>
 
 <!-- Skills -->
-<h2 align="center">Skills</h2>
-<p align="center">
-  • Compiler Development<br>
-  • Front-End UI/UX Design<br>
-  • Web Development<br>
-  • Software Engineering<br>
+<h2 align="left">Skills</h2>
+<p align="left">
+  Hardware Engineering
+  • Compiler Construction<br>
+  • Assembly Language<br>
+  • C++ Language<br>
+  • C Language<br>
+  Software Engineer<br>
+  Front-End Web Development<br>
+  • HTML<br>
+  • CSS<br>
+  • Javascript<br>
+  • JS Libraries.(ReactJs, VueJs, Svelte)<br>
+  Mobile Development
+  • Android.(Kotlin, Jetpack Compose, React Native)<br>
+<!--   Data Science and Machine Learning
+  • Data Visualization<br>
+  • Data Analytics<br>
+  • Deep Learning<br>
+  • NLP<br> -->
 </p>
 
 <!-- What I Do -->
-<h2 align="center">What I Do</h2>
-<p align="center">
-  I build cutting-edge compilers, craft visually stunning user interfaces, and bring web projects to life with code.
+<h2 align="Left">What I Do</h2>
+<p align="left">
+  I build cutting-edge compilers, craft visually stunning user interfaces, and bring web and mobile projects to life with code.
 </p>
 
 <!-- Connect -->
-<h2 align="center">Let's Connect 🚀</h2>
-<p align="center">
-  📫 Email: [Your Email]<br>
-  💼 LinkedIn: [Your LinkedIn Profile]<br>
-  🌐 Portfolio: [Your Portfolio Website]<br>
-  🐦 Twitter: [Your Twitter Handle]<br>
+<h2 align="Left">Let's Connect 🚀</h2>
+<p align="Left">
+  📫 Email: ondigophilemon@gmail.com<br>
+  🌐 Call: (+254) 714-875613<br>
 </p>
