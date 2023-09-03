@@ -20,7 +20,7 @@
   • CSS<br>
   • Javascript<br>
   • JS Libraries.(ReactJs, VueJs, Svelte)<br>
-  Mobile Development
+  Mobile Development<br>
   • Android.(Kotlin, Jetpack Compose, React Native)<br>
 <!--   Data Science and Machine Learning
   • Data Visualization<br>
