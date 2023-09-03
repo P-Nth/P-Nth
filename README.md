@@ -3,13 +3,13 @@
 
 <!-- Intro -->
 <p align="Left">
-  Software engineer with expertise in web development and Mobile Development, Hardware engineer with expertise in compiler construction and Digital Electronics, on the road to turning concepts into real-world projects. Into creating working and efficient solutions.
+  Software engineer with expertise in web development and Mobile Development, Hardware engineer with expertise in compiler construction and Digital Electronics. On the road to turning concepts into real-world projects. Into creating working and efficient solutions.
 </p>
 
 <!-- Skills -->
 <h2 align="left">Skills</h2>
 <p align="left">
-  Hardware Engineering
+  Hardware Engineering<br>
   • Compiler Construction<br>
   • Assembly Language<br>
   • C++ Language<br>
