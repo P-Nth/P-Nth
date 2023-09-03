@@ -1,8 +1,8 @@
 <!-- Title -->
-<h1 align="center">Hi there, its P-Nth(Philemon) 👋</h1>
+<h1 align="Left">Hi there, its P-Nth(Philemon) 👋</h1>
 
 <!-- Intro -->
-<p align="center">
+<p align="Left">
   Software engineer with expertise in web development and Mobile Development, Hardware engineer with expertise in compiler construction and Digital Electronics, on the road to turning concepts into real-world projects. Into creating working and efficient solutions.
 </p>
 
