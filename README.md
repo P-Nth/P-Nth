@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="Left">Hi there, its P-Nth - Philemon 👋</h1>
+<h1 align="Left">Hello there, its P-Nth - Philemon 👋</h1>
 
 <!-- Intro -->
 <p align="Left">
