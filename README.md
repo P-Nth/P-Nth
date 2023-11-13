@@ -10,18 +10,18 @@
 <h2 align="left">Skills</h2>
 <p align="left">
   Hardware Engineering<br>
-  • Compiler Construction<br>
-  • Assembly Language<br>
-  • C++ Language<br>
-  • C Language<br>
+  • Compiler Construction ![Compiler Construction](https://img.shields.io/badge/Compiler%20Construction-Expert-brightgreen)
+  • Assembly Language ![Assembly Language](https://img.shields.io/badge/Assembly%20Language-Advanced-blue)
+  • C++ Language ![C++ Language](https://img.shields.io/badge/C++-Advanced-yellow)
+  • C Language ![C Language](https://img.shields.io/badge/C-Advanced-orange)
   Software Engineer<br>
   Front-End Web Development<br>
-  • HTML<br>
-  • CSS<br>
-  • Javascript<br>
-  • JS Libraries.(ReactJs, VueJs, Svelte)<br>
+  • HTML ![HTML](https://img.shields.io/badge/HTML-5-orange)
+  • CSS ![CSS](https://img.shields.io/badge/CSS-3-blue)
+  • Javascript ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+  • JS Libraries (ReactJs, VueJs, Svelte)
   Mobile Development<br>
-  • Android.(Kotlin, Jetpack Compose, React Native)<br>
+  • Android (Kotlin, Jetpack Compose, React Native)
 <!--   Data Science and Machine Learning
   • Data Visualization<br>
   • Data Analytics<br>
