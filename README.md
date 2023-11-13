@@ -32,7 +32,7 @@
 <!-- What I Do -->
 <h2 align="Left">What I Do</h2>
 <p align="left">
-  I build cutting-edge compilers, craft visually stunning user interfaces, and bring web and mobile projects to life with code.
+  I build cutting-edge compilers, craft visually stunning user interfaces, and bring Systems to life with code.
 </p>
 
 <!-- Connect -->
