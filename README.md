@@ -1,5 +1,5 @@
 <!-- Title -->
-<h1 align="Left">Hello there, its P-Nth - Philemon 👋</h1>
+# Hello there, its P-Nth - Philemon 👋
 
 <!-- Intro -->
 <p align="Left">
@@ -7,21 +7,29 @@
 </p>
 
 <!-- Skills -->
-<h2 align="left">Skills</h2>
+# Skills
 <p align="left">
-  Hardware Engineering<br>
-  • Compiler Construction ![Compiler Construction](https://img.shields.io/badge/Compiler%20Construction-Expert-brightgreen)
-  • Assembly Language ![Assembly Language](https://img.shields.io/badge/Assembly%20Language-Advanced-blue)
-  • C++ Language ![C++ Language](https://img.shields.io/badge/C++-Advanced-yellow)
-  • C Language ![C Language](https://img.shields.io/badge/C-Advanced-orange)
-  Software Engineer<br>
+  
+  ## Hardware Engineering
+  • <img src="https://img.shields.io/badge/Compiler%20Construction-Expert-brightgreen">
+  • <img src="https://img.shields.io/badge/Assembly%20Language-Intermediate-blue">
+  • <img src="https://img.shields.io/badge/C++-Intermediate-yellow">
+  • <img src="https://img.shields.io/badge/C-Advanced-orange">
+  
+  ## Software Engineer
+  
   Front-End Web Development<br>
-  • HTML ![HTML](https://img.shields.io/badge/HTML-5-orange)
-  • CSS ![CSS](https://img.shields.io/badge/CSS-3-blue)
-  • Javascript ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
-  • JS Libraries (ReactJs, VueJs, Svelte)
+  • <img src="https://img.shields.io/badge/HTML-5-orange">
+  • <img src="https://img.shields.io/badge/CSS-3-blue">
+  • <img src="https://img.shields.io/badge/React%20JS-Expert-blue">
+  • <img src="https://img.shields.io/badge/Vue%20JS-Advanced-green">
+  • <img src="https://img.shields.io/badge/Svelte%20JS-Beginner-tomato">
+  
   Mobile Development<br>
-  • Android (Kotlin, Jetpack Compose, React Native)
+    • <img src="https://img.shields.io/badge/Android%20Studio-Expert-brightgreen">
+    • <img src="https://img.shields.io/badge/Kotlin-Advanced-blue">
+    • <img src="https://img.shields.io/badge/Jetpack%20Compose-Intermediate-purple">
+    • <img src="https://img.shields.io/badge/React%20Nativet-Beginner-lightblue">
 <!--   Data Science and Machine Learning
   • Data Visualization<br>
   • Data Analytics<br>
@@ -30,13 +38,13 @@
 </p>
 
 <!-- What I Do -->
-<h2 align="Left">What I Do</h2>
+## What I Do
 <p align="left">
-  I build cutting-edge compilers, craft visually stunning user interfaces, and bring Systems to life with code.
+  I build cutting-edge compilers, craft visually stunning user interfaces, and bring systems to life with code.
 </p>
 
 <!-- Connect -->
-<h2 align="Left">Let's Connect 🚀</h2>
+## Let's Connect 🚀
 <p align="Left">
   📫 Email: <a href="mailto:ondigophilemon@gmail.com">ondigophilemon@gmail.com</a><br>
   🌐 Call: (+254) 714-875613<br>
