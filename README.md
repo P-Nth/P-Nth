@@ -33,8 +33,8 @@
 <!--   Data Science and Machine Learning
   • Data Visualization<br>
   • Data Analytics<br>
-  • Deep Learning<br>
-  • NLP<br> -->
+  • AI<br>
+  • ML<br> -->
 </p>
 
 <!-- What I Do -->
