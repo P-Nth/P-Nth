@@ -1,5 +1,5 @@
 <!-- Title -->
-# Hello there, its P-Nth - Philemon 👋
+# Hello there, its P-Nth 👋
 
 <!-- Intro -->
 <p align="Left">
