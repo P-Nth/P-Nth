@@ -17,8 +17,8 @@
   • <img src="https://img.shields.io/badge/Signal%20Processing-Intermediate-blue">
   
   ## Software Engineer
-  • <img src="https://img.shields.io/badge/Compiler%20Construction-brightgreen">
-  • <img src="https://img.shields.io/badge/App%20Development-brightgreen">
+  • <img src="https://img.shields.io/badge/Compiler%20Construction-Expert-brightgreen">
+  • <img src="https://img.shields.io/badge/App%20Development-Expert-brightgreen">
   • <img src="https://img.shields.io/badge/Web%20Dev-Expert-blue">
   • <img src="https://img.shields.io/badge/AI%20Model%20Dev-Beginner-lightblue">
 </p>
