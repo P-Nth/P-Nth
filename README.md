@@ -3,7 +3,7 @@
 
 <!-- Intro -->
 <p align="Left">
-  Software engineer with expertise in web development and Mobile Development, Hardware engineer with expertise in compiler construction and Digital Electronics. On the road to turning concepts into real-world projects. Into creating working and efficient solutions.
+  A Software engineer with expertise in Hardware engineering. Always turning concepts into real-world projects. On the road to creating working and efficient solutions.
 </p>
 
 <!-- Skills -->
