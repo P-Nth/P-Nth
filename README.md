@@ -11,10 +11,10 @@
 <p align="left">
   
   ## Hardware Engineering
-  • <img src="https://img.shields.io/badge/Compiler%20Construction-Expert-brightgreen">
-  • <img src="https://img.shields.io/badge/Computer%20Architecture%20-Intermediate-blue">
+  • <img src="https://img.shields.io/badge/Computer%20Architecture%20-Expert-brightgreen">
+  • <img src="https://img.shields.io/badge/Microcontroller%20Programming-Advanced-orange">
   • <img src="https://img.shields.io/badge/Digital/Analog Circuit%20Design-Intermediate-blue">
-  • <img src="https://img.shields.io/badge/Signal%20Processing-Advanced-orange">
+  • <img src="https://img.shields.io/badge/Signal%20Processing-Intermediate-blue">
   
   ## Software Engineer
   • <img src="https://img.shields.io/badge/Compiler%20Construction-brightgreen">
