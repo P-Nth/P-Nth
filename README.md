@@ -12,29 +12,15 @@
   
   ## Hardware Engineering
   • <img src="https://img.shields.io/badge/Compiler%20Construction-Expert-brightgreen">
-  • <img src="https://img.shields.io/badge/Assembly%20Language-Intermediate-blue">
-  • <img src="https://img.shields.io/badge/C++-Intermediate-yellow">
-  • <img src="https://img.shields.io/badge/C-Advanced-orange">
+  • <img src="https://img.shields.io/badge/Computer%20Architecture%20-Intermediate-blue">
+  • <img src="https://img.shields.io/badge/Digital/Analog Circuit%20Design-Intermediate-blue">
+  • <img src="https://img.shields.io/badge/Signal%20Processing-Advanced-orange">
   
   ## Software Engineer
-  
-  Front-End Web Development<br>
-  • <img src="https://img.shields.io/badge/HTML-5-orange">
-  • <img src="https://img.shields.io/badge/CSS-3-blue">
-  • <img src="https://img.shields.io/badge/React%20JS-Expert-blue">
-  • <img src="https://img.shields.io/badge/Vue%20JS-Advanced-green">
-  • <img src="https://img.shields.io/badge/Svelte%20JS-Beginner-tomato">
-  
-  Mobile Development<br>
-    • <img src="https://img.shields.io/badge/Android%20Studio-Expert-brightgreen">
-    • <img src="https://img.shields.io/badge/Kotlin-Advanced-blue">
-    • <img src="https://img.shields.io/badge/Jetpack%20Compose-Intermediate-purple">
-    • <img src="https://img.shields.io/badge/React%20Nativet-Beginner-lightblue">
-<!--   Data Science and Machine Learning
-  • Data Visualization<br>
-  • Data Analytics<br>
-  • AI<br>
-  • ML<br> -->
+  • <img src="https://img.shields.io/badge/Compiler%20Construction-brightgreen">
+  • <img src="https://img.shields.io/badge/App%20Development-brightgreen">
+  • <img src="https://img.shields.io/badge/Web%20Dev-Expert-blue">
+  • <img src="https://img.shields.io/badge/AI%20Model%20Dev-Beginner-lightblue">
 </p>
 
 <!-- What I Do -->
@@ -45,6 +31,7 @@
 
 <!-- Connect -->
 ## Let's Connect 🚀
+<p align="Left">Drop me a message, and lets talk!</p>
 <p align="Left">
   📫 Email: <a href="mailto:ondigophilemon@gmail.com">ondigophilemon@gmail.com</a><br>
   🌐 Call: (+254) 714-875613<br>
