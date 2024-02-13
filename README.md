@@ -23,12 +23,6 @@
   • <img src="https://img.shields.io/badge/AI%20Model%20Dev-Beginner-lightblue">
 </p>
 
-<!-- What I Do -->
-## What I Do
-<p align="left">
-  I build cutting-edge compilers, craft visually stunning user interfaces, and bring systems to life with code.
-</p>
-
 <!-- Connect -->
 ## Let's Connect 🚀
 <p align="Left">Drop me a message, and lets talk!</p>
